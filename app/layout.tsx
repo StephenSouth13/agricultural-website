@@ -13,7 +13,7 @@ export const metadata: Metadata = {
   title: "NôngSản - Nông Sản Sạch Từ Nông Trại Đến Bàn Ăn",
   description: "Chuyên cung cấp nông sản tươi ngon, sạch sẽ và an toàn. Giao hàng nhanh chóng, chất lượng đảm bảo.",
   keywords: "nông sản, rau củ, trái cây, thực phẩm sạch, hữu cơ",
-    generator: 'v0.dev'
+    generator: 'Quách Long'
 }
 
 export default function RootLayout({
